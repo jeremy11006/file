@@ -1,0 +1,9 @@
+Customer Id	User ID	Password	Status
+1100024031	ril1100024031	swapnil	Active
+1100025642	ril1100025642	swapnillad	Active
+1100025744	ril1100025744	swapnillad	Active
+
+
+
+"identifier": praneet
+"password": ril@123
